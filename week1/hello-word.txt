@@ -1,0 +1,20 @@
+ASSIGNMENT
+
+(1) Design a 2D ornamental pattern in Grasshopper and extrude it into a 3 dimensional form.
+
+- Nested grid
+
+(2) Use Grasshopper and a Python code editor component to generate a 2D grid of points using two input points from Rhino.
+
+(3) Using parameterized mathematical and logical inputs, modify the grid to produce a varying series of patterns, connected by lines.
+
+- Nested patterns (changing mod)
+- Use rtype for rotation of grid
+
+(4) Using the grasshopper pufferfish extension and surface and extrude components, convert your lines into a 2.5D form.
+
+(5) Bake the form and use a boolean operation to unify your form in Rhino. Ensure the design is 3D printable by checking its edges and slicing it in the Cura 3D software.
+
+(6) Extend grid into 3 dimensions
+
+- Based on distance to center raise / depress to create bowl like shape 
