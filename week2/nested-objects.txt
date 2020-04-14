@@ -1,0 +1,15 @@
+ASSIGNMENT
+
+Create a set of small stacking or nesting objects functional or otherwise.
+
+(1) Use Rhino / Grasshopper to create an initial object. 
+
+(2) Use Grasshopper to duplicate and transform the object so you have at least 5 stacked or nested copies.
+
+(3) Ensure that the copies will effectively stack or nest by baking the copies and performing a boolean union.
+
+(4) Ensure the design is 3D printable by checking edges and slicing in Cura.
+
+(5) 3D print 3 of the designs on printer and test fit.
+
+[OPTIONAL] Wrap 2D ornamental pattern on objects prior to printing them.
