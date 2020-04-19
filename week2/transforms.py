@@ -100,7 +100,7 @@ def rotateZ(theta):
 # Set initial transformation of geometry
 t = init_transform(c)
 g.Transform(t)
-f = (c.PointAtEnd - c.PointAtStart).Length/25
+f = (c.PointAtEnd - c.PointAtStart).Length/15
 t = scale(f,f,f)
 g.Transform(t)
 
