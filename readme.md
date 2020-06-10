@@ -31,6 +31,7 @@ https://www.instructables.com/id/computational-Fabrication-Generative-Design-in-
 
 #### Week 6: Specifying CAM Toolpaths for a Ring Box in Fusion360
 https://www.instructables.com/id/computational-Fabrication-Specifying-CAM-Toolpaths/
+
 ![week6](imgs/week6.jpg)
 
 #### Week 7: Photogrammetery to 3D Printing & Scanning a Rhino Jewelry Box
@@ -38,3 +39,9 @@ https://www.instructables.com/id/computational-Fabrication-Photogrammetry-to-3D-
 <!-- ![week7](imgs/week7.jpg) -->
 
 #### Final Project: Choreomusical Blooms
+https://www.instructables.com/member/soniahashim/instructables/
+
+![week7](imgs/final.png)
+
+
+[Google Slides Deck](https://docs.google.com/presentation/d/1oyZzl8pUARRfdYTmNPvLBfSoMhsRu_bB3786eg30TIo/edit?usp=sharing)
